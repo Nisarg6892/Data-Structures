@@ -23,8 +23,8 @@ public int returnKthToLast(Node head){
 
 // Itertive
 
-NodeR first;
-NodeR second;
+Node first;
+Node second;
 
 public int returnKthToLast(Node head, int k){
 
