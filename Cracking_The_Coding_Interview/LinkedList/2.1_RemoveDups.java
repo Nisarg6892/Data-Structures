@@ -27,7 +27,7 @@ private Node temp;
 private Node current;
 private Node runner;
 
-public NodeR removeDuplicates(NodeR head){
+public Node removeDuplicates(NodeR head){
 		temp = head;
 		current = head;
 
